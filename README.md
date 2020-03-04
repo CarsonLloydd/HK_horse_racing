@@ -13,3 +13,4 @@ The goal is to predict the outcome of upcoming Horse Races in Hong Kong.
 
 ## Presentation
 You can view further analysis here:
+https://www.canva.com/design/DAD1gctonHc/298fNLI1KWdSNntu6-2VfA/view?utm_content=DAD1gctonHc&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
